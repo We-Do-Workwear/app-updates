@@ -1,6 +1,7 @@
 {
   "version": "1.0.1",
-  "message": "Initial update system test",
+  "message": "Update file on shared server",
+  "downloadPath": "\\DirectPrint\\Shared\\",
   "notes": [
     "Added update system"
   ]
