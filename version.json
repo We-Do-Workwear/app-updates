@@ -1,4 +1,7 @@
 {
   "version": "1.0.1",
-  "message": "Initial update system test"
+  "message": "Initial update system test",
+  "notes": [
+    "Added update system"
+  ]
 }
