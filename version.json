@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
-  "message": "Update file on shared server",
-  "downloadPath": "\\DirectPrint\\Shared\\",
+  "version": "1.0.0",
+  "message": "update message",
+  "downloadPath": "\\\\DirectPrint\\Shared\\Tom's Folder\\MockupStudio-latest.msi",
   "notes": [
-    "Added update system"
+    "Installer test"
   ]
 }
