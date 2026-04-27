@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "message": "update message",
-  "downloadPath": "\\\\DirectPrint\\Shared\\MockupStudio\\MockupStudio-latest.msi",
+  "version": "1.0.1",
+  "message": "A new version is available!",
+  "downloadPath": "\\\\DirectPrint\\Shared\\MockupStudio\\MockupStudio-latest.exe",
   "notes": [
-    "Installer test"
+    "Fixed database import"
   ]
 }
