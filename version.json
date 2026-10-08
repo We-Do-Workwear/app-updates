@@ -3,8 +3,8 @@
   "message": "A new version is available!",
   "downloadPath": "\\\\DirectPrint\\Shared\\MockupStudio\\MockupStudio-latest.exe",
   "notes": [
-    "Improved performance",
     "Interface redesign",
+    "General performance upgrades",
     "Improved image processing",
     "Experimental logo stitch count estimate"
   ]
