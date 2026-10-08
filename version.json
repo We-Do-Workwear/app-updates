@@ -4,6 +4,7 @@
   "downloadPath": "\\\\DirectPrint\\Shared\\MockupStudio\\MockupStudio-latest.exe",
   "notes": [
     "Interface redesign",
+    "Artwork proof mode with dynamic page builder",
     "General performance upgrades",
     "Improved image processing",
     "Experimental logo stitch count estimate"
