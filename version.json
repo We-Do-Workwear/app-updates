@@ -1,9 +1,11 @@
 {
-  "version": "1.0.2",
+  "version": "2.0",
   "message": "A new version is available!",
   "downloadPath": "\\\\DirectPrint\\Shared\\MockupStudio\\MockupStudio-latest.exe",
   "notes": [
-    "You can now manually change views in visual mode",
-    "Increased overall text brightness"
+    "Improved performance",
+    "Interface redesign",
+    "Improved image processing",
+    "Experimental logo stitch count estimate"
   ]
 }
